@@ -1,0 +1,13 @@
+.second_section i{
+    cursor: pointer;
+    color: #fff;
+}
+
+.second_section i:hover{
+    color: #f2f2f2e2;
+}
+
+.my_item img{
+    object-fit: cover;
+    height: 545px;
+}
